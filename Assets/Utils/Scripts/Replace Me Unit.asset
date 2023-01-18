@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e66c6366d904e98bc83428217d4fd7, type: 3}
+  m_Name: Replace Me Unit
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[{"key":"Trigger","label":null,"summary":null,"hideLabel":true}],"controlOutputDefinitions":[{"key":"Output","label":null,"summary":null,"hideLabel":true}],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":"Ignore
+      Me!","summary":"I''m doing nothing! Please replace, delete or ignore me :)","pan":{"x":0.0,"y":0.0},"zoom":1.0,"elements":[{"defaultValues":{},"position":{"x":-250.0,"y":-30.0},"guid":"8e283694-526b-4738-b19f-21ca407e40c2","$version":"A","$type":"Unity.VisualScripting.GraphInput","$id":"11"},{"defaultValues":{},"position":{"x":105.0,"y":-30.0},"guid":"dee85753-171c-4f6c-9f44-3f5bd0739c6c","$version":"A","$type":"Unity.VisualScripting.GraphOutput","$id":"13"},{"sourceUnit":{"$ref":"11"},"sourceKey":"Trigger","destinationUnit":{"$ref":"13"},"destinationKey":"Output","guid":"8801fbfd-62d3-4461-aac2-6e62f3b22bdf","$type":"Unity.VisualScripting.ControlConnection"}],"$version":"A"}}'
+    _objectReferences: []

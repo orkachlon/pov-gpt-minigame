@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scene.unity
+    guid: 48852e9a3df9242ee8d48c40caa53513
+  - enabled: 1
+    path: Assets/Utils/Original Scenes/Drag & Drop.unity
+    guid: c3e82a0b82a5546a68a9fd0d076d328c
+  - enabled: 1
+    path: Assets/Utils/Original Scenes/Spot & Press On.unity
+    guid: 1f4287ac1ba0845b28031cc5eafb4fdb
+  - enabled: 1
+    path: Assets/Utils/Original Scenes/Select & Match.unity
+    guid: 4809bdb620c6d4c8eaa93c991721ec51
+  - enabled: 1
+    path: Assets/Utils/Original Scenes/Scroll & Reveal.unity
+    guid: 6c68cfe634ce3405ab07a886705cc588
+  - enabled: 1
+    path: Assets/Scenes/MenuScene.unity
+    guid: 7a6770085f49dc94e84d85104c66901d
+  - enabled: 1
+    path: Assets/Scenes/ComposeSongScene.unity
+    guid: e822ce6e3ddb8044695d27723a2db540
+  - enabled: 1
+    path: Assets/Scenes/WriteStoryScene.unity
+    guid: 707c9a355c90289428745e3ff865adca
+  - enabled: 1
+    path: Assets/Scenes/FixCodeScene.unity
+    guid: 33850fc5f0e417d43a58eea9b860c7af
+  - enabled: 1
+    path: Assets/Scenes/SpaceshipGuideScene.unity
+    guid: c4a807ffc09ac4843aaadb5ae69765e1
+  - enabled: 1
+    path: Assets/Scenes/ConspiracyTheoryScene.unity
+    guid: 502971de2742f5f46b86a2b477454acd
+  - enabled: 1
+    path: Assets/Scenes/FailScene.unity
+    guid: 420ab383a219a6d44a380f2b5ff12de1
+  m_configObjects: {}
