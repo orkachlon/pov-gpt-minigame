@@ -59,13 +59,13 @@ public class UITypeWriterEffect : MonoBehaviour
 
 	private void OnEnable()
 	{
-		print("On Enable!");
+		// print("On Enable!");
 		if(startOnEnable) StartTypewriter();
 	}
 
 	private void OnCollisionEnter2D(Collision2D col)
 	{
-		print("Collision!");
+		// print("Collision!");
 		if (startOnCollision)
 		{
 			StartTypewriter();
