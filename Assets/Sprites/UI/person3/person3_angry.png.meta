@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: bc1ba7e3066f87342a810a6dff681b70
+guid: e6d0e668047625a4baf56066d7c8a462
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -105,7 +105,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: person1_patient_0
+      name: person3_angry_0
       rect:
         serializedVersion: 2
         x: 0
@@ -119,14 +119,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8789788490e9bde43bca2893037da00f
-      internalID: -703384538
+      spriteID: 75e773df5ed8d9f4fab16ed40261395a
+      internalID: 1045396965
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: person1_patient_1
+      name: person3_angry_1
       rect:
         serializedVersion: 2
         x: 33
@@ -140,8 +140,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fee3581ab2b05d945a5bd5c6db0149af
-      internalID: -874589228
+      spriteID: ad95fb78de0ee4f4ca090ccb0a7b51fd
+      internalID: 1003016307
       vertices: []
       indices: 
       edges: []
@@ -157,8 +157,8 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      person1_patient_1: -874589228
-      person1_patient_0: -703384538
+      person3_angry_0: 1045396965
+      person3_angry_1: 1003016307
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
