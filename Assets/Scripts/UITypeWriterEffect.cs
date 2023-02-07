@@ -29,6 +29,10 @@ public class UITypeWriterEffect : MonoBehaviour
 	private enum Options {Clear, Complete}
 	[SerializeField] private Options collisionExitOptions;
 
+	[Header("Audio")]
+	[SerializeField] private bool useSound;
+	[SerializeField] private AudioSource typeSoundEffectSource;
+	
 	// Use this for initialization
 	private void Awake()
 	{
@@ -112,14 +116,14 @@ public class UITypeWriterEffect : MonoBehaviour
 		{
 			text.text = "";
 
-			StartCoroutine("TypeWriterText");
+			StartCoroutine(nameof(TypeWriterText));
 		}
 
 		if (tmpProText == null)
 			return;
 		tmpProText.text = "";
 
-		StartCoroutine("TypeWriterTMP");
+		StartCoroutine(nameof(TypeWriterTMP));
 	}
 
 	private void OnDisable()
@@ -132,6 +136,10 @@ public class UITypeWriterEffect : MonoBehaviour
 		text.text = leadingCharBeforeDelay ? leadingChar : "";
 
 		yield return new WaitForSeconds(delayBeforeStart);
+
+		if (useSound) {
+			typeSoundEffectSource.Play();
+		}
 
 		foreach (var c in _writer)
 		{
@@ -149,6 +157,9 @@ public class UITypeWriterEffect : MonoBehaviour
 			text.text = text.text.Substring(0, text.text.Length - leadingChar.Length);
 		}
 
+		if (useSound) {
+			typeSoundEffectSource.Stop();
+		}
 		yield return null;
 	}
 

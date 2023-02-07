@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/Scene.unity
-    guid: 48852e9a3df9242ee8d48c40caa53513
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Utils/Original Scenes/Drag & Drop.unity
     guid: c3e82a0b82a5546a68a9fd0d076d328c
@@ -30,15 +30,18 @@ EditorBuildSettings:
     path: Assets/Scenes/WriteStoryScene.unity
     guid: 707c9a355c90289428745e3ff865adca
   - enabled: 1
-    path: Assets/Scenes/FixCodeScene.unity
-    guid: 33850fc5f0e417d43a58eea9b860c7af
-  - enabled: 1
     path: Assets/Scenes/SpaceshipGuideScene.unity
     guid: c4a807ffc09ac4843aaadb5ae69765e1
   - enabled: 1
-    path: Assets/Scenes/ConspiracyTheoryScene.unity
-    guid: 502971de2742f5f46b86a2b477454acd
+    path: Assets/Scenes/PlanTripScene.unity
+    guid: d58cfe507370f304fb0fc09c23ec00ec
   - enabled: 1
     path: Assets/Scenes/FailScene.unity
     guid: 420ab383a219a6d44a380f2b5ff12de1
+  - enabled: 1
+    path: Assets/Scenes/FixCodeScene.unity
+    guid: 33850fc5f0e417d43a58eea9b860c7af
+  - enabled: 1
+    path: Assets/Scenes/ConspiracyTheoryScene.unity
+    guid: 502971de2742f5f46b86a2b477454acd
   m_configObjects: {}
