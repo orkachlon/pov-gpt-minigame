@@ -9,8 +9,14 @@ EditorBuildSettings:
     path: 
     guid: 00000000000000000000000000000000
   - enabled: 1
+    path: Assets/Scenes/SplashScreenScene.unity
+    guid: 516d9adb3510c204b9a6eec360ebf8d3
+  - enabled: 1
     path: Assets/Scenes/MenuScene.unity
     guid: 7a6770085f49dc94e84d85104c66901d
+  - enabled: 1
+    path: Assets/Scenes/PlanTripScene.unity
+    guid: d58cfe507370f304fb0fc09c23ec00ec
   - enabled: 1
     path: Assets/Scenes/ComposeSongScene.unity
     guid: e822ce6e3ddb8044695d27723a2db540
@@ -20,9 +26,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SpaceshipGuideScene.unity
     guid: c4a807ffc09ac4843aaadb5ae69765e1
-  - enabled: 1
-    path: Assets/Scenes/PlanTripScene.unity
-    guid: d58cfe507370f304fb0fc09c23ec00ec
   - enabled: 1
     path: Assets/Scenes/FailScene.unity
     guid: 420ab383a219a6d44a380f2b5ff12de1
@@ -39,9 +42,9 @@ EditorBuildSettings:
     path: Assets/Utils/Original Scenes/Scroll & Reveal.unity
     guid: 6c68cfe634ce3405ab07a886705cc588
   - enabled: 0
-    path: Assets/Scenes/FixCodeScene.unity
-    guid: 33850fc5f0e417d43a58eea9b860c7af
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/Scenes/ConspiracyTheoryScene.unity
-    guid: 502971de2742f5f46b86a2b477454acd
+    path: 
+    guid: 00000000000000000000000000000000
   m_configObjects: {}

@@ -108,12 +108,12 @@ public class UITypeWriterEffect : MonoBehaviour
 	}
 
 
-	private void StartTypewriter()
+	public void StartTypewriter()
 	{
 		StopAllCoroutines();
 
-		if(text != null)
-		{
+		if(text != null) {
+			_writer = text.text;
 			text.text = "";
 
 			StartCoroutine(nameof(TypeWriterText));
