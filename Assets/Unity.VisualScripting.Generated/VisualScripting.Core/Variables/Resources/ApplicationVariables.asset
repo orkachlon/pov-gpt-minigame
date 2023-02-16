@@ -15,5 +15,13 @@ MonoBehaviour:
   _data:
     _json: '{"declarations":{"Kind":"Flow","collection":{"$content":[{"name":"Game
       Music Object","value":null,"typeHandle":{"Identification":null,"$version":"A"},"$version":"A"},{"name":"Menu
-      Music Object","value":null,"typeHandle":{"Identification":null,"$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
-    _objectReferences: []
+      Music Object","value":null,"typeHandle":{"Identification":null,"$version":"A"},"$version":"A"},{"name":"PopSoundList","value":{"$content":[0,1,2,3,4],"$type":"System.Collections.Generic.List`1[[UnityEngine.AudioClip,
+      UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"typeHandle":{"Identification":"System.Collections.Generic.List`1[[UnityEngine.AudioClip,
+      UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _objectReferences:
+    - {fileID: 8300000, guid: c81323d60e97f69408c07f647055176f, type: 3}
+    - {fileID: 8300000, guid: 402f284cb69e2d14fa7cd301f3f746e3, type: 3}
+    - {fileID: 8300000, guid: f2d81eb17f440cb4694593768cf169e2, type: 3}
+    - {fileID: 8300000, guid: 79475ec06fa44c041906e8ce8e021bcf, type: 3}
+    - {fileID: 8300000, guid: aa1b80344a13b78469add65bed293a51, type: 3}
