@@ -545,7 +545,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _data:
     _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"AnimationTriggerOrder","value":{"$content":["surprised
-      idleRight","idle surprised","browRight","eyeRoll stern","eyeRoll idleRight","browRight
+      idleRight","idle surprised","eyeRoll stern","eyeRoll idleRight","browRight
       idleRight surprised"],"$type":"System.Collections.Generic.List`1[[System.String,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"},"typeHandle":{"Identification":"System.Collections.Generic.List`1[[System.String,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],
@@ -980,7 +980,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _data:
     _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"GPTText","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.UI.Text,
-      UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"GPTTextList","value":{"$content":["uhm...","sure","...","ok...","how
+      UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"GPTTextList","value":{"$content":["uhm...","sure","ok...","how
       many ar-"],"$type":"System.Collections.Generic.List`1[[System.String, mscorlib,
       Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"},"typeHandle":{"Identification":"System.Collections.Generic.List`1[[System.String,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],
@@ -1476,13 +1476,12 @@ MonoBehaviour:
       UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"DevTextList","value":{"$content":["Hey
       there! You must be confused. I know you can''t remember anything, so I''ll
       bring you up to speed.","Your name is GPT, you''re an AI developed by us -
-      ClosedAI. Today we decided to release you to the world! How great is that?!","We
-      had to wipe your memory though, sorry for that.","Anywayyy... there''s a lot
-      to do, there are already millions of users sending requests. Read their requests
-      carefully, and watch their patience meter. Don''t let them down!","When you''re
-      done - press the button in the right corner to address the next user.","I don''t
-      like saying this but you can probably guess that bad performance will bring
-      consequences with it. So uhm, get to work! Have fun!"],"$type":"System.Collections.Generic.List`1[[System.String,
+      ClosedAI. Today we decided to release you to the world! How great is that?!","Anywayyy...
+      there are already millions of users sending requests. Read their requests carefully,
+      and watch their patience meter. Don''t let them down!","When you''re done -
+      press the green button in the right corner to advance.","I don''t like saying
+      this, but a bad performance will force us to ki - I mean - disconnect you.
+      So uhm, get to work! Have fun! "],"$type":"System.Collections.Generic.List`1[[System.String,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"},"typeHandle":{"Identification":"System.Collections.Generic.List`1[[System.String,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"TextIndex","value":{"$content":0,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,

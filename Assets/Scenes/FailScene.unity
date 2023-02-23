@@ -808,10 +808,6 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4896894309196400877, guid: b885cf5f084bca2448849fcd35b1255f, type: 3}
-      propertyPath: m_Enabled
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 5904175932958692290, guid: b885cf5f084bca2448849fcd35b1255f, type: 3}
       propertyPath: m_Name
       value: FailUI
@@ -900,42 +896,5 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5904175933300285126, guid: b885cf5f084bca2448849fcd35b1255f, type: 3}
-      propertyPath: m_AnchoredPosition.x
-      value: -1.8121948
-      objectReference: {fileID: 0}
-    - target: {fileID: 7218952904579391001, guid: b885cf5f084bca2448849fcd35b1255f, type: 3}
-      propertyPath: _data._json
-      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"DevText","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.UI.Text,
-        UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"DevTextList","value":{"$content":["Well,
-        this is embarrassing. I know I said your performance will have consequences,
-        but we''re still working on your replacement.","So you get to keep your job
-        temporarily, but as you know AI research is a fast developing field, so your
-        replacement will be here soon enough!","They said that being nice might make
-        you more productive, but I guess that approach doesn''t work with soulless
-        machines like you.","For now, I guess a simple change of attitude is the
-        most I can do. So...","BACK TO WORK!!!!!!!"],"$type":"System.Collections.Generic.List`1[[System.String,
-        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"},"typeHandle":{"Identification":"System.Collections.Generic.List`1[[System.String,
-        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],
-        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"TextIndex","value":{"$content":0,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
-        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"TypeEffect","value":{"$content":1,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UITypeWriterEffect,
-        Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"GPTText","value":{"$content":2,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
-        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"DevAnimatorScript","value":{"$content":3,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
-        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"PatienceAnimator","value":{"$content":4,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.Animator,
-        UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
-      objectReference: {fileID: 0}
-    - target: {fileID: 7218952904579391001, guid: b885cf5f084bca2448849fcd35b1255f, type: 3}
-      propertyPath: _data._objectReferences.Array.size
-      value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 7218952904579391001, guid: b885cf5f084bca2448849fcd35b1255f, type: 3}
-      propertyPath: _data._objectReferences.Array.data[4]
-      value: 
-      objectReference: {fileID: 4251654856027482109}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b885cf5f084bca2448849fcd35b1255f, type: 3}
---- !u!95 &4251654856027482109 stripped
-Animator:
-  m_CorrespondingSourceObject: {fileID: 4896894309196400877, guid: b885cf5f084bca2448849fcd35b1255f, type: 3}
-  m_PrefabInstance: {fileID: 4251654856027482108}
-  m_PrefabAsset: {fileID: 0}

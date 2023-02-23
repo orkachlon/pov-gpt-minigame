@@ -546,7 +546,7 @@ Animator:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2222211373377133285}
-  m_Enabled: 0
+  m_Enabled: 1
   m_Avatar: {fileID: 0}
   m_Controller: {fileID: 9100000, guid: 26a858a9bd9185442a791a4073e9182d, type: 2}
   m_CullingMode: 0
@@ -1067,25 +1067,26 @@ MonoBehaviour:
   _data:
     _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"DevText","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.UI.Text,
       UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"DevTextList","value":{"$content":["Well,
-      this is embarrassing. I know I said your performance will have consequences,
-      but we''re still working on your replacement.","So you get to keep your job
-      temporarily, but as you know AI research is a fast developing field, so your
-      replacement will be here soon enough!","They said that being nice might make
-      you more productive, but I guess that approach doesn''t work with soulless
-      machines like you.","For now, I guess a simple change of attitude is the most
-      I can do. So...","BACK TO WORK!!!!!!!"],"$type":"System.Collections.Generic.List`1[[System.String,
+      this is embarrassing. I know what I said about bad performance, but we''re
+      still working on your replacement.","You get to keep your job temporarily,
+      but AI is a fast developing field, so you''ll be out of here soon enough!","They
+      said that being nice will make you better, but I guess that doesn''t work with
+      soulless machines like you.","For now, I guess a simple change of attitude
+      is the most I can do. So...","BACK TO WORK!!!!!!!"],"$type":"System.Collections.Generic.List`1[[System.String,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"},"typeHandle":{"Identification":"System.Collections.Generic.List`1[[System.String,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"TextIndex","value":{"$content":0,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"TypeEffect","value":{"$content":1,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UITypeWriterEffect,
       Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"GPTText","value":{"$content":2,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"DevAnimatorScript","value":{"$content":3,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
-      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"PatienceAnimator","value":{"$content":4,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.Animator,
+      UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 5904175934107629155}
     - {fileID: 5904175934107629154}
     - {fileID: 9218159019023385881}
     - {fileID: 2164921325178361321}
+    - {fileID: 4896894309196400877}
 --- !u!114 &6181114254683350012
 MonoBehaviour:
   m_ObjectHideFlags: 0

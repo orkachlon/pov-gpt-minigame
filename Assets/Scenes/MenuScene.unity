@@ -219,7 +219,7 @@ GameObject:
   - component: {fileID: 598686392}
   - component: {fileID: 598686391}
   m_Layer: 0
-  m_Name: VisualScripting SceneVariables
+  m_Name: SceneVariables
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
