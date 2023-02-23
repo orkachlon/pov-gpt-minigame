@@ -1480,8 +1480,8 @@ MonoBehaviour:
       there are already millions of users sending requests. Read their requests carefully,
       and watch their patience meter. Don''t let them down!","When you''re done -
       press the green button in the right corner to advance.","I don''t like saying
-      this, but a bad performance will force us to ki - I mean - disconnect you.
-      So uhm, get to work! Have fun! "],"$type":"System.Collections.Generic.List`1[[System.String,
+      this, but a bad performance will force us to ki- I mean - disconnect you. So
+      uhm, get to work! Have fun! "],"$type":"System.Collections.Generic.List`1[[System.String,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"},"typeHandle":{"Identification":"System.Collections.Generic.List`1[[System.String,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"TextIndex","value":{"$content":0,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
