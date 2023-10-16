@@ -1,4 +1,4 @@
-![image](https://github.com/orkachlon/pov-gpt-minigame/assets/45174548/ca6d700a-0b1f-4868-9a6e-f46b8be37ff5)
+![title-image](https://github.com/orkachlon/pov-gpt-minigame/assets/45174548/ca6d700a-0b1f-4868-9a6e-f46b8be37ff5)
 
 # POV: GPT
 A minigame made as part of the Minigames 2023 course at Bezalel Academy of Art and Design.<br>
