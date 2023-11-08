@@ -13,6 +13,6 @@ Pixel art by me, the rest was done with [Stable Diffusion](https://stability.ai/
 The game was made in Unity, using Visual Scripting almost exclusively.
 
 ### Screenshots
-<img src="https://github.com/orkachlon/pov-gpt-minigame/assets/45174548/5dd09713-9e6c-4b55-9213-95d7ce1ba5fd" width="750">
-<img src="https://github.com/orkachlon/pov-gpt-minigame/assets/45174548/12d21279-2baa-4ae0-9047-1c4e80c0ac47" width="750">
-<img src="https://github.com/orkachlon/pov-gpt-minigame/assets/45174548/65cee2e0-8e5a-4f0c-817f-630eaa6450fc" width="750">
+<img src="Screenshots/1.png" width="750">
+<img src="Screenshots/2.png" width="750">
+<img src="Screenshots/3.png" width="750">
